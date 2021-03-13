@@ -34,8 +34,13 @@ Yep. Pretty much everything as i said is built in Afflux's Half Life 2 for Mac w
 Tested in a iMac 2009. macOS 10.13.6 High Sierra.
 FPS is at max 60. The only framerates it can reach
 
+# Download here.
+
+GitHub plz fix your file limit. god damn
+
+https://www.mediafire.com/file/vlk5lobi0i7avxy/Half+Life+-+NGHL.zip/file
+
 # Thank you.
 
 HAPPY SPEEDRUNNING GAMERS!
-2021 (C) exobyte
-2013 (C) rofi.
+
